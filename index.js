@@ -483,7 +483,7 @@ function loginHelper(appState, email, password, globalOptions, callback, prCallb
     mainPromise
         .then(function() {
             logger('Hoàn Thành Quá Trình Đăng Nhập !', "[ FB - API ]");
-                logger('Chúc Bạn Một Ngày Tốt Lành Nhé !', "[ FB - API ]");
+                logger('[ ARAXY ] - ỜMMMM', "[ FB - API ]");
                     //!---------- Auto Check, Update START -----------------!//
                 var axios = require('axios');
             var { readFileSync } = require('fs-extra');
